@@ -1,1 +1,3 @@
-# python_list_exercise
+# Today practice
+practice exercise
+test
