@@ -12,3 +12,7 @@ print("Average is:", Average)
 my_list = [1, 3, 4, 5, 6, 7, 8, 9, 11, 15, 17, 25, 33, 57]
 my_list.sort()
 print(my_list)
+
+#Question3
+Data = ["Ajmal", "Ahsan", "Mohsin", "Muhammad", "Umair"]
+print(Data)
